@@ -1,4 +1,4 @@
-## Meeting 1
+## Meeting 2
 #### 10/3/18 4:30pm - 6:30pm
 
 In this meeting, we concluded our work on the Milestone 1 Project Proposal:
